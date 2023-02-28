@@ -5,7 +5,7 @@ This is where I keep some of my personal projects, which I use to learn more abo
 <div align="center">
   <a href="#">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GabrielHygino&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&&theme=tokyonight"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHygino&layout=compact&langs_count=4&hide=PHP,Java,C%23&hide_border=true&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHygino&layout=compact&langs_count=4&hide=Java,C%23&hide_border=true&theme=tokyonight"/>
 </div>
 
 ### Skills :desktop_computer:
