@@ -2,10 +2,19 @@
 ### Hello, I'm Gabriel Hygino, developer and Coding enthusiast :computer:
 This is where I keep some of my personal projects, which I use to learn more about programming.
 
+<hr>
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+
+
 <div align="center">
-  <a href="#">
-  <img width="44.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielHygino&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&&theme=tokyonight"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHygino&layout=compact&langs_count=4&hide=Java,C%23&hide_border=true&theme=tokyonight"/>
+  ### Contact me!
+  <a href="https://www.linkedin.com/in/gabriel-hygino/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </>
+  <a href="mailto:contact.gabrielhygino@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </>
 </div>
 
 ### Skills :desktop_computer:
@@ -27,13 +36,10 @@ This is where I keep some of my personal projects, which I use to learn more abo
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
 
-
-### Contact me!
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-hygino/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </>
-  <a href="mailto:contact.gabrielhygino@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </>
+<div align="center">
+  <a href="#">
+  <img width="44.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielHygino&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHygino&layout=compact&langs_count=4&hide=Java,C%23&hide_border=true&theme=tokyonight"/>
 </div>
+
+
