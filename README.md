@@ -28,7 +28,7 @@ This is where I keep some of my personal projects, which I use to learn more abo
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </div>
 
- ###Contact me!
+### Contact me!
 <div align="center">
  
   <a href="https://www.linkedin.com/in/gabriel-hygino/" target="_blank">
@@ -39,6 +39,7 @@ This is where I keep some of my personal projects, which I use to learn more abo
   </>
 </div>
 
+</br></br></br>
 <div align="center">
   <a href="#">
   <img width="44.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielHygino&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&&theme=tokyonight"/>
