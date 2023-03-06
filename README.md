@@ -9,7 +9,7 @@ This is where I keep some of my personal projects, which I use to learn more abo
 
 
 <div align="center">
-  ### Contact me!
+  <h1>Contact me!</h1>
   <a href="https://www.linkedin.com/in/gabriel-hygino/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </>
