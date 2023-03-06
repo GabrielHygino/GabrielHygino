@@ -7,6 +7,13 @@ This is where I keep some of my personal projects, which I use to learn more abo
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
+<div align="center">
+  <a href="#">
+  <img width="37.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielHygino&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&&theme=tokyonight"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHygino&layout=compact&langs_count=4&hide=Java,C%23&hide_border=true&theme=tokyonight"/>
+</div>
+
+
 ### Skills :desktop_computer:
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,12 +41,3 @@ This is where I keep some of my personal projects, which I use to learn more abo
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </>
 </div>
-
-</br>
-<div align="center">
-  <a href="#">
-  <img width="40.5%" src="https://github-readme-stats.vercel.app/api?username=GabrielHygino&show_icons=true&include_all_commits=true&count_private=true&&hide_border=true&&theme=tokyonight"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHygino&layout=compact&langs_count=4&hide=Java,C%23&hide_border=true&theme=tokyonight"/>
-</div>
-
-
