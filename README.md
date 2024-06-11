@@ -4,7 +4,7 @@
 -   🚩 From Sorocaba-SP
 -   🧩 ADHD and autistic person
 ### Stack
-- 💻 **Development:**  Nodejs, Nestjs Typescript, Python, GraphQL, Linux, Docker, Tests, CI/CD
+- 💻 **Development:**  Nodejs, Nestjs, Typescript, Python, GraphQL, Linux, Docker, Tests, CI/CD
 - 🚀 **Database:**   MySQL, PostgreSQL, Oracle, MongoDB
 - ⚡ **What im learning:**  Kafka and AWS
 
