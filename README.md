@@ -1,43 +1,16 @@
-## Welcome to my profile! :night_with_stars:
-### Hello, I'm Gabriel Hygino, developer and Coding enthusiast :computer:
-This is where I keep some of my personal projects, which I use to learn more about programming.
+##  Hello, I'm Gabriel Hygino, backend developer and Coding enthusiast 💻
 
-<hr>
+-   🏢Jr Software Enginner at [CI&T](https://ciandt.com/br/pt-br/home)
+-   🚩 From Sorocaba-SP
+-   🧩 ADHD and autistic person
+### Stack
+- 💻 **Development:**  Nodejs, Nestjs Typescript, Python, GraphQL, Linux, Docker, Tests, CI/CD
+- 🚀 **Database:**   MySQL, PostgreSQL, Oracle, MongoDB
+- ⚡ **What im learning:**  Kafka and AWS
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
-
-<div align="center">
-  <a href="#">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHygino&layout=compact&langs_count=4&hide=C%23&hide_border=true&theme=tokyonight"/>
-</div>
+### Contact
 
 
-### Skills :desktop_computer:
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-  
-### Learning :bookmark_tabs:
-<div>
+[![](https://camo.githubusercontent.com/3d2154650407f9cafbea8812df02a0a616298ca43ff3249cd284df48011f7673/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4646303030303f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d464630303030266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d6174686672616e636973636f73616e746f7340676d61696c2e636f6d)](mailto:gahygino@gmail.com)  [![](https://camo.githubusercontent.com/615c2b08ecb228e8e05b49d89a98bd5eba1c7a4efa8bf1ecc222e88a9e1018cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d6174686672616e636973636f73616e746f732f)](https://www.linkedin.com/in/gabriel-hygino/)  [![](https://camo.githubusercontent.com/81addf11a07b83dcc23e3b7b927ef5588b3141e0555b4fd2a64a4036d75a38bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174734170702d3235643336363f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d323564333636266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6170692e77686174736170702e636f6d2f73656e642f3f70686f6e653d353531393938383136313732332674657874)](https://api.whatsapp.com/send/?phone=5515991323207&text) 
+## 
 
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-</div>
-
-### Contact me!
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-hygino/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </>
-  <a href="mailto:contact.gabrielhygino@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </>
-</div>
