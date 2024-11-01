@@ -1,6 +1,6 @@
 ##  Hello, I'm Gabriel Hygino, backend developer and Coding enthusiast 💻
 
--   🏢Jr Software Enginner at [CI&T](https://ciandt.com/br/pt-br/home)
+-   🏢Jr Software Enginner at [Fintech Magalu](https://fintechmagalu.com.br/)
 -   🚩 From Sorocaba-SP
 -   🧩 ADHD and autistic person
 ### Stack
